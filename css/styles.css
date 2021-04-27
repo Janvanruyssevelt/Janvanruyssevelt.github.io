@@ -488,7 +488,18 @@ mark,
   max-width: 100%;
   height: auto;
 }
-
+.BewijsFoto{
+  width: 100%;
+  height: auto;
+}
+.imgContainer{
+  width: 400px;
+  height: 240px;
+}
+.ImageSub {
+  font-style: italic;
+  font-size: x-small;
+}
 .figure {
   display: inline-block;
 }
