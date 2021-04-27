@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c44b29-a0c4-40b8-b2a6-493e1468c532" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/ELI_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/IT@breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/PXL digital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/eurofins_00000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/spotit.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Afbeelding1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Afbeelding1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="34c44b29-a0c4-40b8-b2a6-493e1468c532" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619510998669</updated>
       <workItem from="1619511001643" duration="6324000" />
-      <workItem from="1619523778643" duration="1962000" />
+      <workItem from="1619523778643" duration="2222000" />
     </task>
     <servers />
   </component>
